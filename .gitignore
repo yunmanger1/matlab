@@ -1,3 +1,5 @@
 *.pdf
 *.png
 *.html
+*slprj*
+*.mexa64
